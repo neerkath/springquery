@@ -1,0 +1,4 @@
+com\kgisl\springquery\controller\Usercontroller.class
+com\kgisl\springquery\repository\UserRepository.class
+com\kgisl\springquery\model\Employee.class
+com\kgisl\springquery\SpringqueryApplication.class
